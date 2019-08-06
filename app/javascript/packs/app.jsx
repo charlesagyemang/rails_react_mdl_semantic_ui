@@ -17,7 +17,7 @@ class App extends Component {
               <Content>
                   <div className="page-content" />
                   <Main />
-                  <Button>Click Here</Button>
+
               </Content>
             </Layout>
         </div>
